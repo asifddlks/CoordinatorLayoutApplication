@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoordinatorLayoutApplication</string>
+    <string name="large_text">The FAB within a CoordinatorLayout has been specified a default Behavior that causes it to animate accordingly when another view interacts with it. Do a Ctrl/CMD+ Click on the FloatingActionButton in the layout/activity and you shall see a Behavior has been defined on the class with an annotation. \n \nThis brings an end to Android CoordinatorLayout Example. We started with browsing through the default Behavior of the FAB widget and have ended up with overriding it with our own Rotation Behavior. Not to miss out the Behavior on a Button too. It’s a long way. You can download the Android CoordinatorLayoutBehaviours Project from the below link.</string>
+</resources>
